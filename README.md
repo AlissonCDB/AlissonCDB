@@ -19,18 +19,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Indaiatuba 
 #### 📊 Ficha de Personagem (Atributos)
 - **Classe:** Desenvolvedor Full-Stack / Analista de Dados
 - **Missão Atual:** Desenvolvendo o projeto de graduação **Group Leveling** 🎮
-- **Habilidades Especiais:** Organização de processos (POPs, diagramas UML e códigos Python via IA) e integrações com Supabase.
+- **Habilidades Especiais:** Desenvolvimento Mobile, Arquitetura de APIs robustas e integrações completas com Supabase.
 - **Localização:** Indaiatuba, SP 📍
 
 #### 🎒 Inventário (Tecnologias)
-- **Front-end:** React.js, Next.js, Tailwind CSS, Styled-Components, JavaScript.
-- **Back-end:** Node.js, API Rest, Supabase, PostgreSQL, MySQL.
-- **Dados:** Python (Pandas), Power BI, Looker Studio.
+- **Front-end & Mobile:** React.js, Next.js, React Native, TypeScript, Tailwind CSS, JavaScript.
+- **Back-end & Banco de Dados:** Node.js, NestJS, Supabase, PostgreSQL, MongoDB, MySQL, API Rest.
+- **Dados & Outros:** Python (Pandas, Reinforcement Learning/AWS DeepRacer), Power BI.
 
 #### 📜 Missões de Desenvolvimento Atuais ⚔️
-* **Group Leveling:** Plataforma de agendamento de grupos de estudos utilizando conceitos de gamificação para engajamento.
-* **Excel & Python:** Automação de relatórios e saneamento de dados para gerar KPIs empresariais de gestão, incluindo documentação através de POPs e diagramas.
-* **Supabase:** Aprofundamento na ferramenta para implementar recursos avançados, como notificações automatizadas via Edge Functions.
+* **Group Leveling:** Plataforma de gestão e agendamento de grupos de estudos utilizando conceitos de gamificação (XP, Guildas, Raids) para engajamento. Desenvolvido com Next.js e Supabase.
+* **Além da Memória:** Aplicativo mobile para rastreamento de mídias (livros, filmes e séries) construído com React Native e SQLite, integrado à API do TMDB e com uma identidade visual de estética *retro*.
+* **VitalControl:** Sistema de backend robusto utilizando NestJS e MongoDB estruturado para o gerenciamento seguro de registros de usuários e dados farmacêuticos de medicamentos.
 
 ---
 
@@ -42,18 +42,18 @@ Systems Analysis and Development student at FATEC Indaiatuba (Expected graduatio
 #### 📊 Character Sheet (Attributes)
 - **Class:** Full-Stack Developer / Data Analyst
 - **Current Quest:** Developing the **Group Leveling** graduation project 🎮
-- **Special Skills:** Process organization (SOPs, UML diagrams, and AI-driven Python coding) and Supabase integrations.
-- **Localização:** Indaiatuba, SP, Brazil 📍
+- **Special Skills:** Mobile Development, Robust API Architecture, and full-featured Supabase integrations.
+- **Location:** Indaiatuba, SP, Brazil 📍
 
 #### 🎒 Inventory (Tech Stack)
-- **Front-end:** React.js, Next.js, Tailwind CSS, Styled-Components, JavaScript.
-- **Back-end:** Node.js, REST APIs, Supabase, PostgreSQL, MySQL.
-- **Data:** Python (Pandas), Power BI, Looker Studio.
+- **Front-end & Mobile:** React.js, Next.js, React Native, TypeScript, Tailwind CSS, JavaScript.
+- **Back-end & Database:** Node.js, NestJS, Supabase, PostgreSQL, MongoDB, MySQL, REST APIs.
+- **Data & Others:** Python (Pandas, Reinforcement Learning/AWS DeepRacer), Power BI.
 
 #### 📜 Active Development Quests ⚔️
-* **Group Leveling:** A study group scheduling platform utilizing gamification concepts to boost engagement.
-* **Excel & Python:** Report automation and data sanitation to generate corporate management KPIs, including documentation via SOPs and diagrams.
-* **Supabase:** Mastering the tool to implement advanced features like automated notifications through Edge Functions.
+* **Group Leveling:** A study group management and scheduling platform utilizing gamification concepts (XP, Guilds, Raids) to boost engagement. Built with Next.js and Supabase.
+* **Além da Memória:** A mobile media tracker application (books, movies, and series) developed with React Native and SQLite, integrated with the TMDB API, featuring a *retro-inspired* visual identity.
+* **VitalControl:** A robust backend system built with NestJS and MongoDB, structured for secure user record keeping and pharmaceutical medicine data management.
 
 ---
 
